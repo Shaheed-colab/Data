@@ -1,2 +1,3 @@
-# Data
-This data can be only for 5 fruits not involve any another food items
+# PYTORCH
+This projects and data is build to based on pytorch module and own datasets and some pytorch datasets
+
